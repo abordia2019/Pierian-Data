@@ -1,2 +1,8 @@
+Function #1
 def myfunc():
   print("Hello World")
+  
+  Funciton#2
+  def myfunc(name):
+    print('Hello {}'.format(name))
+ 
